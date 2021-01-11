@@ -1,0 +1,1 @@
+alert($("input").attr("value"));
